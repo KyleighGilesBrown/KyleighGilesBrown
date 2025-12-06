@@ -1,8 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<div align="center">
-  <img align="right" src="https://github.com/user-attachments/assets/77090f42-dea5-4b12-a503-811880ad0041" width="400" alt="coding gif"/>
-  
-  <div align="left">
+
+<img align="right" src="https://github.com/user-attachments/assets/85a532c2-009c-4a7e-93b7-fdcd42e2281a" width="500" alt="coding gif"/>
+
 
 ### Kyleigh Giles-Brown
 
