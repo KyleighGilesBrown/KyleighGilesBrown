@@ -15,6 +15,8 @@ Welcome! Here you will find a collection of personal and academic projects docum
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-800080?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-FF69B4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Connect With Me
 
